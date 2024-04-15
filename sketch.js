@@ -12,7 +12,7 @@ function setup() {
   createCanvas(w_width, w_height);
   background(0);
   points = [];
-  for (let i = 0; i < 30; i++) {
+  for (let i = 0; i < 60; i++) {
     points.push(new Point());
   }
 }
